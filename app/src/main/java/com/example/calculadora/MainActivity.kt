@@ -68,6 +68,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun quitarCero() {
+
         binding.apply {
             if (txtPantalla.text == "0") {
                 txtPantalla.text = "0"
