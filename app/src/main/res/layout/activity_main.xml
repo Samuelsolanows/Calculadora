@@ -15,6 +15,7 @@
         android:textAlignment="textEnd"
         android:textSize="48sp"
         android:translationY="80dp"
+        android:text=""
         tools:ignore="RtlCompat" />
 
     <TextView
